@@ -18,8 +18,12 @@ laptop.jpeg
 ~$*.bak
 *.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 ~$*.jpg
 >>>>>>> 777786d2e200bdf45204024b93183ade24c6fc73
 =======
 *.jpg
 >>>>>>> fe5455bc9e063166e3cfe53ff0be545196c62b1e
+=======
+#*.jpg
+>>>>>>> 24903ffd0cd8f97ffabd39b5d9281a53d85fd6b1
