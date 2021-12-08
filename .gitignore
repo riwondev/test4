@@ -3,3 +3,5 @@
 ~$*.txt
 ~$*.bak
 *.txt
+~$*.jpg
+test2/
