@@ -3,6 +3,7 @@
 =======
 
 ~$*.txt
+<<<<<<< HEAD
 *.bak
 eucalyptus-plant.jpeg
 <<<<<<< HEAD
@@ -13,3 +14,8 @@ laptop.jpeg
 *.jpeg
 *.jpg
 >>>>>>> 12dd2592f326dd5c70eb5946dcbace6b05f14511
+=======
+~$*.bak
+*.txt
+~$*.jpg
+>>>>>>> 777786d2e200bdf45204024b93183ade24c6fc73
